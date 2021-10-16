@@ -1,2 +1,2 @@
-# -convertcurrency
+# Convert Currency
 Convert Currency Project.
